@@ -59,15 +59,11 @@ def generate_article_html(title, abstract, keywords):
 
 
 text = """
-La potenza marittima e i suoi limiti: un punto di vista teorico
-Federico Bordonaro
-Vision & Global Trends. International Institute for Global Analyses
-(Progetto Società Italiana di Geopolitica)
+asdasdasdasdasdsadsa
 
 ABSTRACT
-This article investigates the limits of maritime power, by critically analyzing the theorizations of Jakub Grygiel, Saul B. Cohen and Randall Collins in light of the new phase of geopolitical competition marked by both warlike (Ukraine) and potentially military (Taiwan) conflicts having, among the main issues at stake, the control of closed seas, straits, archipelagos, coastlines and maritime trade routes.
-The impression is that the limits of maritime power inevitably emerge in the event that states lose their positional and comparative human resources advantages over their competitors, especially in phases of rapid diffusion of technological innovations. Therefore, the key to global geopolitical dominance does not lie simply in dominating the seas or, on the contrary, the continental mass, but in having the aforementioned advantages over rivals, not only by force, but also through a diplomatic strategy capable of co-opting allies.
-KEYWORDS: Maritime Power, Geopolitical Theory, NATO
+dfdfdfdfdfdfdfdfdf
+KEYWORDS: dfdfdfdfdfdfdfdfd
 """
 
 title, abstract, keywords = extract_article_info(text)
